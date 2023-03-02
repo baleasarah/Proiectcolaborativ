@@ -5,6 +5,8 @@ public class Main {
         Animal a= new Animal();
         Pisica p= new Pisica();
         a.mananca();
-        p.mananca();
+        p.mananca();  
+
+        a.mananca();
     }
 }
